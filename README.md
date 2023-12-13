@@ -1,4 +1,4 @@
-[https://www.thomaslegge.github.io](https://thomaslegge.github.io/)
+[Portfolio](https://thomaslegge.github.io/)
 
 <!--
 **thomaslegge/thomaslegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
